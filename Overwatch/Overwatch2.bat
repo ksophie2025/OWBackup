@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Users\admin\Desktop\Overwatch\Overwatch\Overwatch2.uproject" -game -ResX=600 -ResY=400 -WinX=0 -WinY=100 -log

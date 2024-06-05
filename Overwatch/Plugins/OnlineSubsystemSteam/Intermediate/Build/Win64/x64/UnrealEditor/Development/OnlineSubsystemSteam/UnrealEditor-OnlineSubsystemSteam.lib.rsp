@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineSubsystemSteam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\admin\Documents\NetTPS\Intermediate\Build\Win64\x64\NetTPSEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\admin\Documents\NetTPS\Plugins\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
+"C:\Users\admin\Documents\NetTPS\Plugins\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Default.rc2.res"
+/OUT:"C:\Users\admin\Documents\NetTPS\Plugins\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.lib"
